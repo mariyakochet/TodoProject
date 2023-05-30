@@ -1,0 +1,21 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "fastify": "^4.17.0",
+    "http": "0.0.1-security",
+    "pg": "^8.11.0",
+    "sequelize": "^6.26.0",
+    "sqlite3": "^5.1.2",
+    "vuetify": "^2.6.12"
+  }
+}
